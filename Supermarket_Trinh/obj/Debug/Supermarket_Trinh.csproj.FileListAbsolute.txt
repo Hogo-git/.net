@@ -1,0 +1,36 @@
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supermarket_Trinh.exe.config
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supermarket_Trinh.exe
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supermarket_Trinh.pdb
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Guna.UI.dll
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csprojAssemblyReference.cache
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.Form1.resources
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.Properties.Resources.resources
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csproj.GenerateResource.cache
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csproj.CoreCompileInputs.cache
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csproj.CopyComplete
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.exe
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.pdb
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.Splash.resources
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.ProductForm.resources
+E:\Lập trình\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.SellerFrom.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supmarketdb.mdf
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supmarketdb_log.ldf
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supermarket_Trinh.exe.config
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supermarket_Trinh.exe
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Supermarket_Trinh.pdb
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Bunifu_UI_v1.52.dll
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\bin\Debug\Guna.UI.dll
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csprojAssemblyReference.cache
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.CategoryFrom.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.Form1.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.ProductForm.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.Properties.Resources.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.SellerFrom.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.Splash.resources
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csproj.GenerateResource.cache
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csproj.CoreCompileInputs.cache
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.csproj.CopyComplete
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.exe
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.pdb
+E:\programming\C#\C#_winform\project\Supermarket_Trinh\Supermarket_Trinh\obj\Debug\Supermarket_Trinh.SellingFrom.resources
